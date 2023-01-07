@@ -1,13 +1,17 @@
 
 An infrared small target dataset and we name it IST-A.
-The data are uploading and not finished. (The author has to do something else for few days. The left part of the training subset will be uploaded before 2023/1/6)
 
-The dataset information will be supplemented in near feature.
+All images and labels of IST-A have been uploaded. Anyone who needs can take it for research.
+After getting some suggestions, we decide not to upload any manuscript to the open platform. If you have to cite the dataset, you may just need to cite the website (https://github.com/SeaHifly/IST-A).
 
-If you have finised your paper manucript and want to adopt the datasets, please contact us. We'll try to upload a version to the arxiv as quickly as possible so that you can cite it.
-(We send our own paper to TGRS but the manucript has not been accepted)
+If our manuscript is accepted by any journal, we'll update the information as quickly as possible.
 
 Code link: https://github.com/SeaHifly/Infrared-Small-Target
+
+================================================================================================================================
+Basic Information of IST-A.
+
+Though we don't upload any open versions, we still excerpt the introduction of IST-A in our manuscript and present it below.
 
 
 
