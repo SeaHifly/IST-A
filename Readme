@@ -13,4 +13,6 @@ Basic Information of IST-A.
 
 Birds, UAVs, helicopters, planes, and aircraft which can fly at a relatively far distance would be taken as infrared small targets in IST-A. There are 59553 images in training subset while thare are 14756 images in testing subset.There are some images without any target because the targets may be occluded by some other objects like buildings or vegetation. In IST-A, over 87% of targets are smaller than 6×6. Although we focus on targets in the sky, it should be emphasized that the ground is also a major part of the background in IST-A. Vegetation, buildings, and some other objects on the ground are all involved in IST-A.
 
+There are no synthetic images in IST-A. All images are captured by cameras and all targets in IST-A are noncooperative (Targets are not controlled by us and all targets are caputured by chance.).
+
 
