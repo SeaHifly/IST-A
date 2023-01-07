@@ -16,13 +16,14 @@ Images in IST-A shares the same size of 288×384. Birds, UAVs, helicopters, plan
 There are no synthetic images in IST-A. All images are captured by cameras and all targets in IST-A are noncooperative. (Targets are not controlled by us and all targets are caputured by chance.) There are not more than three targets in one image.
 
 =================================================================================================================================
-Label.
+Label Information
+
 L cx cy w h
 
 size on pixel scale:
 L cx*384 cy*288 w*384 h*288
 
-All images are labeled on Matlab Platform. So when you are adopting the datasets on Pycharm or VS, you have to cut the cx and cy by one on pixel scale.
+All images are labeled on the Matlab Platform. So when you are adopting IST-A on Pycharm or VS, you have to decrease the cx and cy by one on pixel scale.
 
 On Matlab:  x∈[1,384]
 On Pycharm: x-1∈[0,383]
