@@ -16,6 +16,8 @@ Images in IST-A shares the same size of 288×384. Birds, UAVs, helicopters, plan
 
 There are no synthetic images in IST-A. All images are captured by cameras and all targets in IST-A are noncooperative. (Targets are not controlled by us and all targets are caputured by chance.) There are not more than three targets in one image.
 
+Attention or Notes: We only focus on targets in the sky, which means objects on the ground won't be taken as targets in IST-A.
+
 =================================================================================================================================
 Label Information
 
