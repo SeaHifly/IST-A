@@ -1,5 +1,7 @@
 
 An infrared small target dataset and we name it IST-A.
+One should donwload all files successfully before unzipping.
+If you fail to unzip on ubuntu (we do have the problem, too) , try again on windows.
 
 All images and labels of IST-A have been uploaded. Anyone who needs can take it for research.
 After getting some suggestions, we decide not to upload any manuscript to the open platform. If you have to cite the dataset, you may just need to cite the website (https://github.com/SeaHifly/IST-A).
